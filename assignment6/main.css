@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(247, 234, 215);
+}
+legend
+{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-style:inherit;
+}
+span
+{
+    color: red;
+}
+#firstname
+{
+    background-color: rgb(183, 211, 249);
+}
+#lastname
+{
+    background-color: rgb(183, 211, 249);
+}
+#date
+{
+    background-color: rgb(183, 211, 249);
+}
+#email
+{
+    background-color: rgb(183, 211, 249);
+}
+#username
+{
+    background-color: rgb(183, 211, 249);
+}
+#password1
+{
+    background-color: rgb(183, 211, 249);
+}
+#password2
+{
+    background-color: rgb(183, 211, 249);
+}
+#submitButton
+{
+    background-color: rgb(202, 241, 124);
+}
+#resetButton
+{
+    background-color: rgb(251, 136, 105);
+}
+#usernameLogin
+{
+    background-color: rgb(183, 211, 249);
+}
+#passwordLogin
+{
+    background-color: rgb(183, 211, 249);
+}

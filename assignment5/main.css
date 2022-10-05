@@ -1,0 +1,21 @@
+#topic1{
+    background-color: rgb(183, 211, 249);
+}
+#comment1{
+    background-color: rgb(135, 182, 244);
+}
+#comment2{
+    background-color:rgb(94, 164, 255);
+}
+textarea{
+    background-color: rgb(254, 228, 255);
+}
+body{
+    background-color: rgb(247, 234, 215);
+}
+#PostButton{
+    background-color: rgb(202, 241, 124);
+}
+#ClearButton{
+    background-color: rgb(251, 136, 105);
+}
